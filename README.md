@@ -27,7 +27,7 @@ Build a scalable, cost-effective serverless solution with AWS services, includin
 
 ## Architecture
 
-![AWS Architecture for Serverless Web Application](Screenshot_2024-04-17_18_55_52.png)
+![AWS Architecture for Serverless Web Application](assets/serverless-web-arch.png)
 
 The web application consists of the following AWS components:
 
